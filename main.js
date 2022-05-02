@@ -3,8 +3,6 @@
 function oneThroughTwenty(num) {
     let contagem = 0
     for (let i = 1; i <= num; i++) {
-        console.log(i)
-        console.log('ta passando')
         contagem++
     }
     return contagem
