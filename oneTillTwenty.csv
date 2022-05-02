@@ -1,0 +1,21 @@
+num =20;contagem = 1;i = 1;i <= num;return
+num =20;contagem = 0;i = 2;true;-
+num =20;contagem = 2;i = 3;true;-
+num =20;contagem = 3;i = 4;true;-
+num =20;contagem = 4;i = 5;true;-
+num =20;contagem = 5;i = 6;true;-
+num =20;contagem = 6;i = 7;true;-
+num =20;contagem = 7;i = 1;true;-
+num =20;contagem = 8;i = 9;true;-
+num =20;contagem = 9;i = 10;true;-
+num =20;contagem = 10;i = 11;true;-
+num =20;contagem = 11;i = 12;true;-
+num =20;contagem = 12;i = 13;true;-
+num =20;contagem = 13;i = 14;true;-
+num =20;contagem = 14;i = 15;true;-
+num =20;contagem = 15;i = 16;true;-
+num =20;contagem = 16;i = 17;true;-
+num =20;contagem = 17;i = 18;true;-
+num =20;contagem = 18;i = 19;true;-
+num =20;contagem = 19;i = 20;true;
+num =20;contagem = 20;i = 21;false;contagem = 20
